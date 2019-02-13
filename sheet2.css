@@ -1,0 +1,38 @@
+ul li
+{
+ font-family:tnr;
+ color:yellow;
+ background-image:url("/home/itsec3/Downloads/wp2.jpeg");
+ background-repeat:repeat-y;
+background-attachment:scroll;
+
+ }
+div pre
+{
+ font-family:tnr;
+ font-style:italics;
+ color:rgb(0,0,253);
+ font-size:small;
+ font-weight:bolder;
+ text-decoration:overline;
+ 
+}
+div p
+{
+ font-family:tnr,new gothic,calibri;
+ text-decoration:underline;
+ text-transform:capitalize;
+ text-shadow:4px 4px 8px teal;
+ letter-spacing:5px;
+word-spacing:5px;
+text-align:center;
+ border:5px dotted red;
+background-image:url("/home/itsec3/Downloads/wp2.jpeg");
+ background-repeat:repeat-y;
+background-attachment:scroll;
+}
+p
+{ 
+ border:5px groove red;
+ }
+

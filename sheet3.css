@@ -1,0 +1,23 @@
+div p
+{
+ font-family:tnr,new gothic,calibri;
+ text-decoration:underline;
+ text-transform:capitalize;
+ text-shadow:4px 4px 8px PURPLE;
+ letter-spacing:5px;
+word-spacing:5px;
+text-align:center;
+ border:5px inset aqua;
+background-image:url("/home/itsec3/Downloads/flower.jpg");
+ background-repeat:repeat-x;
+background-attachment:fixed;
+color:#6A7;
+font-size:small;
+ font-weight:bolder;
+}
+pre
+{
+ border:10px double pink;
+ height:210px;
+ width:300px;
+} 
