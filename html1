@@ -1,0 +1,35 @@
+<html>
+<head>
+<style>
+div {
+opacity:1.0;
+background-image:url("/home/itsec3/Downloads/flower.jpg");
+border-color:grey;
+border-style:solid;
+border-width:10px;
+height:350px;
+width:750px;
+}
+div.box {
+
+opacity:0.7;
+height:50px;
+width:350px;
+margin:75px 100px 75px 100px;
+padding:25px 25px 25px 25px 25px;
+border-width:5px;
+padding:70px;
+
+text-align:center;
+font-weight:bolder;
+}
+</style>
+</head>
+<body>
+<div>
+<div class = box> 
+<p style="opacity:1.0">this is some text placed in box</p>
+</div>
+</div>
+</body>
+</html>
