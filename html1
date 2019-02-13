@@ -4,7 +4,6 @@
 div {
 opacity:1.0;
 background-image:url("/home/itsec3/Downloads/flower.jpg");
-border-color:grey;
 border-style:solid;
 border-width:10px;
 height:350px;
@@ -20,7 +19,7 @@ padding:25px 25px 25px 25px 25px;
 border-width:5px;
 padding:70px;
 
-text-align:center;
+text-align:right;
 font-weight:bolder;
 }
 </style>
@@ -28,7 +27,8 @@ font-weight:bolder;
 <body>
 <div>
 <div class = box> 
-<p style="opacity:1.0">this is some text placed in box</p>
+<p style="opacity:1.0">this is some text placed in box.
+working with github today.</p>
 </div>
 </div>
 </body>
